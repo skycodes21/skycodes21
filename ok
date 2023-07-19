@@ -1,0 +1,24 @@
+📂 src
+  ├─ 📂 components
+  │   ├─ 👥 Coach.js
+  │   ├─ 💬 Chatbot.js
+  │   └─ 📊 Analytics.js
+  │
+  ├─ 📂 data
+  │   ├─ 📄 intents.json
+  │   └─ 📄 responses.json
+  │
+  ├─ 📂 services
+  │   ├─ 📁 AI
+  │   │   ├─ 💻 NLP.js
+  │   │   └─ 🎙️ SpeechRecognition.js
+  │   └─ 📁 API
+  │       ├─ 🌐 Backend.js
+  │       └─ 🌐 Database.js
+  │
+  ├─ 📂 styles
+  │   ├─ 📄 index.css
+  │   └─ 📄 chatbot.css
+  │
+  ├─ 📄 index.html
+  └─ 📄 main.js
